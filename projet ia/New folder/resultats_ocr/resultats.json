@@ -1,0 +1,66 @@
+[
+  {
+    "fichier": "attestation_exemple.png",
+    "page": 1,
+    "type_document": "attestation",
+    "score_classification": 4,
+    "confiance_ocr": 74.9,
+    "champs": {
+      "dates": [
+        "01/09/2020",
+        "20/11/2026"
+      ],
+      "cin": [
+        "09876543"
+      ]
+    },
+    "texte": "ATTESTATION DE TRAVAIL\nJe soussigne, Directeur des Ressources\nHumaines, atteste que Monsieur Ahmed Ben Ali,\nCIN: 09876543, est employe dans notre\nsociete depuis le 01/09/2020.\nCette attestation est delivree pour servir\net valoir ce que de droit.\nFait a Tunis, le 20/11/2026"
+  },
+  {
+    "fichier": "facture_exemple.png",
+    "page": 1,
+    "type_document": "facture",
+    "score_classification": 7,
+    "confiance_ocr": 87.6,
+    "champs": {
+      "dates": [
+        "15/11/2026"
+      ],
+      "emails": [
+        "contact@tunisservices.tn"
+      ],
+      "telephones": [
+        "71 123 456"
+      ],
+      "montants": [
+        "1250,000 DT",
+        "35,500 DT",
+        "2677,500 DT",
+        "508,725 DT",
+        "3186,225 DT"
+      ],
+      "numero_document": [
+        "FA-2026-0142"
+      ],
+      "total": "3186,225 DT"
+    },
+    "texte": "FACTURE\nFacture N: FA-2026-0142\nDate: 15/11/2026\nClient: Societe Tunis Services\nEmail: contact@tunisservices.tn\nTel: 71 123 456\nDesignation Quantite Prix unitaire\nOrdinateur portable 2 1250,000 DT\nSouris sans fil 5 35,500 DT\nTotal HT: 2677,500 DT\nTVA 19%: 508,725 DT\nTotal TTC: 3186,225 DT"
+  },
+  {
+    "fichier": "sortie_etape1.png",
+    "page": 1,
+    "type_document": "attestation",
+    "score_classification": 4,
+    "confiance_ocr": 74.9,
+    "champs": {
+      "dates": [
+        "01/09/2020",
+        "20/11/2026"
+      ],
+      "cin": [
+        "09876543"
+      ]
+    },
+    "texte": "ATTESTATION DE TRAVAIL\nJe soussigne, Directeur des Ressources\nHumaines, atteste que Monsieur Ahmed Ben Ali,\nCIN: 09876543, est employe dans notre\nsociete depuis le 01/09/2020.\nCette attestation est delivree pour servir\net valoir ce que de droit.\nFait a Tunis, le 20/11/2026"
+  }
+]

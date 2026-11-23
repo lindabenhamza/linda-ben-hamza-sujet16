@@ -1,0 +1,4 @@
+﻿fichier;page;type_document;confiance_ocr;dates;montants;total;emails;telephones;cin;iban;numero_document
+attestation_exemple.png;1;attestation;74.9;01/09/2020 | 20/11/2026;;;;;09876543;;
+facture_exemple.png;1;facture;87.6;15/11/2026;1250,000 DT | 35,500 DT | 2677,500 DT | 508,725 DT | 3186,225 DT;3186,225 DT;contact@tunisservices.tn;71 123 456;;;FA-2026-0142
+sortie_etape1.png;1;attestation;74.9;01/09/2020 | 20/11/2026;;;;;09876543;;

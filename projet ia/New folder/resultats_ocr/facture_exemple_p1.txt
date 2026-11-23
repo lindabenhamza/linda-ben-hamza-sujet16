@@ -1,0 +1,12 @@
+FACTURE
+Facture N: FA-2026-0142
+Date: 15/11/2026
+Client: Societe Tunis Services
+Email: contact@tunisservices.tn
+Tel: 71 123 456
+Designation Quantite Prix unitaire
+Ordinateur portable 2 1250,000 DT
+Souris sans fil 5 35,500 DT
+Total HT: 2677,500 DT
+TVA 19%: 508,725 DT
+Total TTC: 3186,225 DT
